@@ -1,8 +1,5 @@
-
-IPython
-
+streamlit
 time
 numpy 
 pandas
-
 pycaret
