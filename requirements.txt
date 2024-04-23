@@ -1,5 +1,5 @@
 os
-os.environ["PYCARET_CUSTOM_LOGGING_LEVEL"] = "CRITICAL"
+
 IPython
 
 time
